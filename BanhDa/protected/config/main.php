@@ -27,7 +27,7 @@ return array(
 		/**/
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'12345678',
+			'password'=>'Anhtuan1990',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('banhda.cu5dcsssg6td.ap-northeast-1.rds.amazonaws.com','::1'),
 		),
@@ -35,6 +35,7 @@ return array(
 	),
 
 	// application components
+	//admin/Anhtuan1990
 	'components'=>array(
 		'user'=>array(
             'loginUrl'=>array('admin/login'),
@@ -108,6 +109,6 @@ return array(
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 		// this is used in contact page
-		'adminEmail'=>'ntrongluong@gmail.com',
+		'adminEmail'=>'tuananh105@gmail.com',
 	),
 );
