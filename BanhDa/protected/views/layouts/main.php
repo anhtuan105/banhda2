@@ -62,8 +62,8 @@
 	<div class="clear"></div>
 
 	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by OTD<br/>
-		Open Technology Development<br/>
+		Copyright &copy; <?php echo date('Y'); ?> by Tuan Anh<br/>
+		Go to the world<br/>
 	</div><!-- footer -->
 
 </div><!-- page -->
