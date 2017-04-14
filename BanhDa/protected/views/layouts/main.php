@@ -62,7 +62,7 @@
 	<div class="clear"></div>
 
 	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by Tuan Anh<br/>
+		Copyright &copy; <?php echo date('Y'); ?> by Tuan Anh main<br/>
 		Go to the world<br/>
 	</div><!-- footer -->
 
