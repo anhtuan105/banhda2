@@ -321,7 +321,7 @@ setTimeout("clock()", 1000);
  		</div>
  		<font color="#009933" size="1">
       	<div id="coppyright">
-      		<h4>Design by<a href="#" target="_blank" class="coppyright"> Nguyen Tuan Anh head</a></h4>
+      		<h4>Design by<a href="#" target="_blank" class="coppyright"> Nguyen Tuan Anh </a></h4>
       		<h4>Copyright © 2014 - Tuan Anh</h4>
       	</div>
   		</font></div><font color="#009933" size="1">
